@@ -1,0 +1,17 @@
+{
+    "opacity": 1, 
+    "title": "Clock", 
+    "skip_pager": true, 
+    "shape": "circle", 
+    "handle_enabled": false, 
+    "height": 140, 
+    "width": 140, 
+    "below": false, 
+    "stick": true, 
+    "drag": true, 
+    "y": 283, 
+    "x": 1780, 
+    "decorated": false, 
+    "skip_taskbar": true, 
+    "transparent": true
+}

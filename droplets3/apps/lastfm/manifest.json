@@ -1,0 +1,18 @@
+{
+    "origin": "remote", 
+    "title": "Last FM widget", 
+    "skip_pager": true, 
+    "drag": false, 
+    "handle_enabled": false, 
+    "height": 248, 
+    "width": 200, 
+    "shape": "roundedrect", 
+    "below": true, 
+    "corner_radius": 5, 
+    "y": 221, 
+    "x": 1153, 
+    "skip_taskbar": true, 
+    "decorated": false, 
+    "transparent": true, 
+    "stick": true
+}

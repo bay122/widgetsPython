@@ -1,0 +1,18 @@
+{
+    "opacity": 1, 
+    "origin": "local", 
+    "title": "Template", 
+    "skip_pager": false, 
+    "drag": false, 
+    "height": 140, 
+    "width": 140, 
+    "shape": "rect", 
+    "below": false, 
+    "stick": true, 
+    "above": true, 
+    "y": 567, 
+    "x": 661, 
+    "decorated": false, 
+    "skip_taskbar": true, 
+    "transparent": true
+}
